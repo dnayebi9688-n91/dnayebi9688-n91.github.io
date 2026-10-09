@@ -1,0 +1,702 @@
+{
+ "league": "لیگ برتر بسکتبال ایران",
+ "season": "1405",
+ "source": "varzesh3.com",
+ "sourceUrl": "https://www.varzesh3.com/basketball/league/32/%D9%84%DB%8C%DA%AF-%D8%A8%D8%B1%D8%AA%D8%B1-%D8%A8%D8%B3%DA%A9%D8%AA%D8%A8%D8%A7%D9%84/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%87%D8%A7",
+ "updated": "2026-10-09T09:20:00+03:30",
+ "note": "فصل ۱۴۰۵ از ۳۰ مهر آغاز می‌شود",
+ "standings": [
+  {
+   "rank": 1,
+   "name": "شهرداری گرگان",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 2,
+   "name": "پالایش نفت آبادان",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 3,
+   "name": "مس رفسنجان",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 4,
+   "name": "کاله",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 5,
+   "name": "طبیعت",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 6,
+   "name": "گلنور اصفهان",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 7,
+   "name": "مهگل البرز",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 8,
+   "name": "زاگرس جنوبی جهرم",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 9,
+   "name": "رعد پدافند بابل",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 10,
+   "name": "پاس کردستان",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 11,
+   "name": "استقلال تهران",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  },
+  {
+   "rank": 12,
+   "name": "نفت و گاز گچساران",
+   "logo": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=40",
+   "played": 0,
+   "win": 0,
+   "loss": 0,
+   "diff": 0,
+   "pts": 0
+  }
+ ],
+ "matches": [
+  {
+   "id": "180980",
+   "week": 1,
+   "date": "1405/07/30",
+   "home": {
+    "name": "مس رفسنجان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=40"
+   },
+   "away": {
+    "name": "مهگل البرز",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180980/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D9%85%D9%87%DA%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2"
+  },
+  {
+   "id": "180981",
+   "week": 1,
+   "date": "1405/07/30",
+   "home": {
+    "name": "طبیعت",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=40"
+   },
+   "away": {
+    "name": "نفت و گاز گچساران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180981/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86"
+  },
+  {
+   "id": "180982",
+   "week": 1,
+   "date": "1405/07/30",
+   "home": {
+    "name": "شهرداری گرگان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=40"
+   },
+   "away": {
+    "name": "رعد پدافند بابل",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180982/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D8%B1%D8%B9%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8%D9%84"
+  },
+  {
+   "id": "180983",
+   "week": 1,
+   "date": "1405/07/30",
+   "home": {
+    "name": "گلنور اصفهان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=40"
+   },
+   "away": {
+    "name": "زاگرس جنوبی جهرم",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180983/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AC%D9%87%D8%B1%D9%85"
+  },
+  {
+   "id": "180984",
+   "week": 1,
+   "date": "1405/07/30",
+   "home": {
+    "name": "کاله",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=40"
+   },
+   "away": {
+    "name": "پاس کردستان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180984/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%84%D9%87-%D9%BE%D8%A7%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86"
+  },
+  {
+   "id": "180985",
+   "week": 1,
+   "date": "1405/07/30",
+   "home": {
+    "name": "پالایش نفت آبادان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=40"
+   },
+   "away": {
+    "name": "استقلال تهران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180985/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+  },
+  {
+   "id": "181028",
+   "week": 2,
+   "date": null,
+   "home": {
+    "name": "رعد پدافند بابل",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=40"
+   },
+   "away": {
+    "name": "مس رفسنجان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181028/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B1%D8%B9%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8%D9%84-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86"
+  },
+  {
+   "id": "181029",
+   "week": 2,
+   "date": null,
+   "home": {
+    "name": "مهگل البرز",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=40"
+   },
+   "away": {
+    "name": "طبیعت",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181029/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%D9%87%DA%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA"
+  },
+  {
+   "id": "181030",
+   "week": 2,
+   "date": null,
+   "home": {
+    "name": "زاگرس جنوبی جهرم",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=40"
+   },
+   "away": {
+    "name": "شهرداری گرگان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181030/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AC%D9%87%D8%B1%D9%85-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86"
+  },
+  {
+   "id": "181031",
+   "week": 2,
+   "date": null,
+   "home": {
+    "name": "پاس کردستان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=40"
+   },
+   "away": {
+    "name": "گلنور اصفهان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181031/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%BE%D8%A7%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+  },
+  {
+   "id": "181032",
+   "week": 2,
+   "date": null,
+   "home": {
+    "name": "استقلال تهران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=40"
+   },
+   "away": {
+    "name": "کاله",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181032/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D9%87"
+  },
+  {
+   "id": "181033",
+   "week": 2,
+   "date": null,
+   "home": {
+    "name": "نفت و گاز گچساران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=40"
+   },
+   "away": {
+    "name": "پالایش نفت آبادان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181033/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86"
+  },
+  {
+   "id": "181034",
+   "week": 3,
+   "date": null,
+   "home": {
+    "name": "مس رفسنجان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=40"
+   },
+   "away": {
+    "name": "زاگرس جنوبی جهرم",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181034/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AC%D9%87%D8%B1%D9%85"
+  },
+  {
+   "id": "181035",
+   "week": 3,
+   "date": null,
+   "home": {
+    "name": "مهگل البرز",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=40"
+   },
+   "away": {
+    "name": "رعد پدافند بابل",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181035/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%D9%87%DA%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D8%B1%D8%B9%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8%D9%84"
+  },
+  {
+   "id": "181036",
+   "week": 3,
+   "date": null,
+   "home": {
+    "name": "طبیعت",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=40"
+   },
+   "away": {
+    "name": "پالایش نفت آبادان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181036/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86"
+  },
+  {
+   "id": "181037",
+   "week": 3,
+   "date": null,
+   "home": {
+    "name": "شهرداری گرگان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=40"
+   },
+   "away": {
+    "name": "پاس کردستان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181037/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86"
+  },
+  {
+   "id": "181038",
+   "week": 3,
+   "date": null,
+   "home": {
+    "name": "گلنور اصفهان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=40"
+   },
+   "away": {
+    "name": "استقلال تهران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181038/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+  },
+  {
+   "id": "181039",
+   "week": 3,
+   "date": null,
+   "home": {
+    "name": "کاله",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=40"
+   },
+   "away": {
+    "name": "نفت و گاز گچساران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181039/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%A9%D8%A7%D9%84%D9%87-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86"
+  },
+  {
+   "id": "181040",
+   "week": 4,
+   "date": null,
+   "home": {
+    "name": "پاس کردستان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=40"
+   },
+   "away": {
+    "name": "مس رفسنجان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181040/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%BE%D8%A7%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86"
+  },
+  {
+   "id": "181041",
+   "week": 4,
+   "date": null,
+   "home": {
+    "name": "زاگرس جنوبی جهرم",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=40"
+   },
+   "away": {
+    "name": "مهگل البرز",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181041/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AC%D9%87%D8%B1%D9%85-%D9%85%D9%87%DA%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2"
+  },
+  {
+   "id": "181042",
+   "week": 4,
+   "date": null,
+   "home": {
+    "name": "رعد پدافند بابل",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=40"
+   },
+   "away": {
+    "name": "طبیعت",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181042/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B1%D8%B9%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA"
+  },
+  {
+   "id": "181043",
+   "week": 4,
+   "date": null,
+   "home": {
+    "name": "استقلال تهران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=40"
+   },
+   "away": {
+    "name": "شهرداری گرگان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181043/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86"
+  },
+  {
+   "id": "181044",
+   "week": 4,
+   "date": null,
+   "home": {
+    "name": "نفت و گاز گچساران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=40"
+   },
+   "away": {
+    "name": "گلنور اصفهان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181044/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86"
+  },
+  {
+   "id": "181045",
+   "week": 4,
+   "date": null,
+   "home": {
+    "name": "پالایش نفت آبادان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=40"
+   },
+   "away": {
+    "name": "کاله",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/181045/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86-%DA%A9%D8%A7%D9%84%D9%87"
+  },
+  {
+   "id": "180986",
+   "week": 5,
+   "date": null,
+   "home": {
+    "name": "مس رفسنجان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/1utikr2x.png?w=40"
+   },
+   "away": {
+    "name": "استقلال تهران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/cuzhm1x3.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180986/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%D8%B3-%D8%B1%D9%81%D8%B3%D9%86%D8%AC%D8%A7%D9%86-%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%AA%D9%87%D8%B1%D8%A7%D9%86"
+  },
+  {
+   "id": "180987",
+   "week": 5,
+   "date": null,
+   "home": {
+    "name": "مهگل البرز",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/nj0vnpnt.png?w=40"
+   },
+   "away": {
+    "name": "پاس کردستان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/14tbhx0h.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180987/%D8%A8%D8%A7%D8%B2%DB%8C-%D9%85%D9%87%DA%AF%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%B2-%D9%BE%D8%A7%D8%B3-%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86"
+  },
+  {
+   "id": "180988",
+   "week": 5,
+   "date": null,
+   "home": {
+    "name": "رعد پدافند بابل",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bto211kp.png?w=40"
+   },
+   "away": {
+    "name": "زاگرس جنوبی جهرم",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/33e3lmkv.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180988/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B1%D8%B9%D8%AF-%D9%BE%D8%AF%D8%A7%D9%81%D9%86%D8%AF-%D8%A8%D8%A7%D8%A8%D9%84-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D8%AC%D9%87%D8%B1%D9%85"
+  },
+  {
+   "id": "180989",
+   "week": 5,
+   "date": null,
+   "home": {
+    "name": "طبیعت",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/qv10iws4.png?w=40"
+   },
+   "away": {
+    "name": "کاله",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/pnkaoam0.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180989/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B7%D8%A8%DB%8C%D8%B9%D8%AA-%DA%A9%D8%A7%D9%84%D9%87"
+  },
+  {
+   "id": "180990",
+   "week": 5,
+   "date": null,
+   "home": {
+    "name": "شهرداری گرگان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/ycd11y1t.png?w=40"
+   },
+   "away": {
+    "name": "نفت و گاز گچساران",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/uxm2jxui.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180990/%D8%A8%D8%A7%D8%B2%DB%8C-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%DA%AF%D8%B1%DA%AF%D8%A7%D9%86-%D9%86%D9%81%D8%AA-%D9%88-%DA%AF%D8%A7%D8%B2-%DA%AF%DA%86%D8%B3%D8%A7%D8%B1%D8%A7%D9%86"
+  },
+  {
+   "id": "180991",
+   "week": 5,
+   "date": null,
+   "home": {
+    "name": "گلنور اصفهان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/bnfnn441.png?w=40"
+   },
+   "away": {
+    "name": "پالایش نفت آبادان",
+    "logo": "https://match-cdn.varzesh3.com/basketball-team/o0aflmsi.png?w=40"
+   },
+   "scoreHome": null,
+   "scoreAway": null,
+   "quartersHome": [],
+   "quartersAway": [],
+   "status": "upcoming",
+   "url": "https://www.varzesh3.com/basketball/match/180991/%D8%A8%D8%A7%D8%B2%DB%8C-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86-%D9%BE%D8%A7%D9%84%D8%A7%DB%8C%D8%B4-%D9%86%D9%81%D8%AA-%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86"
+  }
+ ]
+}

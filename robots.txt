@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dnayebi9688-n91.github.io/sitemap.xml
